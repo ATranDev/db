@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name": "Lời nguyền",
+        "releaseYear": 2017
+    },
+    {
+        "id": 1,
+        "name": "Lời nguyền 1",
+        "releaseYear": 2018
+    },
+    {
+        "id": 2,
+        "name": "Lời nguyền 2",
+        "releaseYear": 2017
+    },
+    {
+        "id": 3,
+        "name": "Lời nguyền 3",
+        "releaseYear": 2019
+    },
+    {
+        "id": 10,
+        "name": "Lời nguyền 10",
+        "releaseYear": 2017
+    },
+    {
+        "id": 11,
+        "name": "Lời nguyền 11",
+        "releaseYear": 2018
+    },
+    {
+        "id": 12,
+        "name": "Lời nguyền 12",
+        "releaseYear": 2017
+    },
+    {
+        "id": 13,
+        "name": "Lời nguyền 13",
+        "releaseYear": 2019
+    }
+]
